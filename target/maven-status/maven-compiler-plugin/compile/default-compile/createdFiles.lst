@@ -1,0 +1,4 @@
+com\stout\Message.class
+com\stout\MessageDecoder.class
+com\stout\MessageEndpoint.class
+com\stout\MessageEncoder.class
